@@ -5,7 +5,7 @@ My ultimate objective is to translate a huge script I made in a defunct Matlab c
 
 As a noob in Python, and to avoid reinventing the wheel, I have looked first for other examples made
 - in Python : I found more or less nothing except this small script: https://github.com/alexrd/pk/blob/master/run_pk.py),
-which may be useful to
+from which I could take the idea of array of functions to build a PBPK model in a modular way,
 - in R (found some packages that might be used as inspiration guide)
 - and in Matlab : I found only one useful script, limited to PK models, but very appealing to me because 
   1) written in M langage (ie not using the proprietary Simbiology tool),
